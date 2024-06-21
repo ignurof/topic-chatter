@@ -1,0 +1,20 @@
+# Python # 
+*.py[cod] 
+*$py.class
+venv/
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Backup files # 
+*.bak 
+
+# LSP
+pyrightconfig.json
+
+notes
