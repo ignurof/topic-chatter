@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-Title:
+Epic:
 
-Summary:
+User Story:
 
-Expected results:
+Acceptance Criteria:
 
-Implementation details:
+Tasks:
