@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-Title:
-
-Summary:
-
-Expected results:
-
-Implementation details:
+As a **role**,
+I can **capability**,
+So that **received benefit**
