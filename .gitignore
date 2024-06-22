@@ -18,3 +18,5 @@ media
 pyrightconfig.json
 
 notes
+
+*.env
