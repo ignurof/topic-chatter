@@ -26,7 +26,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     # personal apps
-    "tcapp.apps.TodoConfig",
+    "tcapp.apps.TcappConfig",
 ]
 
 MIDDLEWARE = [
