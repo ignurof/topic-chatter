@@ -1,5 +1,8 @@
 # Topic Chatter
 
+Topic Chatter is a place for people to come together and discuss available topics that they can read and give their own takes on.
+The site is intended for all kinds of demographics and will sport many kinds of topics to discuss, and the purpose is to fuel discussion on the internet.
+It will be readily available and a fun and interactive experience.
 
 ![Responsiveness](assets/images/readme/responsive.png)
 
@@ -20,6 +23,10 @@
 - [**Credits**](#credits)
 
 ## Features 
+
+All visitors to the site can read the topics and comments.
+Users can create comments on topics they are reading, and also like topics and comments.
+Admins can create new topics for users to comment on.
 
 ### Existing Features
 
